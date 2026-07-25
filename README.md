@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI & Data Science Engineer** specializing in data-driven solutions machine learning and natural language processing. Currently pursuing my **B.E. in Artificial Intelligence & Data Science** at Guru Gobind Singh College of Engineering.
+I'm a passionate **AI & Data Science Engineer** specializing in data-driven solutions, machine learning and natural language processing. Currently pursuing my **B.E. in Artificial Intelligence & Data Science** at Guru Gobind Singh College of Engineering.
 
 My focus:
 - 🤖 Building production-ready ML systems
