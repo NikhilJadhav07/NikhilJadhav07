@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-nikhiljadhav-blue?style=flat-square&logo=github)](https://github.com/nikhiljadhav)
+[![GitHub](https://img.shields.io/badge/GitHub-nikhiljadhav-blue?style=flat-square&logo=github)](https://github.com/NikhilJadhav07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Jadhav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nikhil-jadhav-347520423)
 [![Email](https://img.shields.io/badge/Email-nikhiljadhav2782%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nikhiljadhav2782@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Nashik%2C%20India-green?style=flat-square)](#)
