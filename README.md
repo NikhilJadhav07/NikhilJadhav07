@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-nikhiljadhav2782%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nikhiljadhav2782@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Nashik%2C%20India-green?style=flat-square)](#)
 
-**AI Engineer | Machine Learning Specialist | Data Scientist**  
+**AI Engineer | Data Analyst | Machine Learning Specialist | Data Scientist**  
 *Building intelligent systems that solve real-world problems*
 
 </div>
@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI & Data Science Engineer** specializing in machine learning, natural language processing, and data-driven solutions. Currently pursuing my **B.E. in Artificial Intelligence & Data Science** at Guru Gobind Singh College of Engineering.
+I'm a passionate **AI & Data Science Engineer** specializing in data-driven solutions machine learning and natural language processing. Currently pursuing my **B.E. in Artificial Intelligence & Data Science** at Guru Gobind Singh College of Engineering.
 
 My focus:
 - 🤖 Building production-ready ML systems
@@ -38,7 +38,7 @@ I believe in **combining research rigor with practical implementation** to creat
 
 ```
 ✨ 88% ML Accuracy | 12,000+ Lines of Code | 71 Files
-🔬 Peer-Reviewed Research Paper | 5-Person Team | 6 Months Development
+🔬 Peer-Reviewed Research Paper | 6 Months Development
 ```
 
 **What it does:**
@@ -66,7 +66,7 @@ This project demonstrates full mastery of:
 ---
 
 ### 🍽️ **FoodAI** - Smart Food Recommendation System
-**[Repository](#) | [Live Demo](#)**
+**[Repository](https://github.com/NikhilJadhav07/SmartBuy-Smart-Food-Recommendation-System) | [Live Demo](#)**
 
 *Intelligent ingredient-based food recommendation engine*
 
@@ -135,7 +135,7 @@ This project demonstrates full mastery of:
 - Capstone Research Project
 
 **Achievements:**
-- Peer-reviewed research paper published
+- Research paper published
 - College Innovation Award winner
 - Capstone project (MindGuard)
 
@@ -246,20 +246,8 @@ Statistical Testing, User Studies, Academic Writing
 - ✅ **Microsoft Fabric Data Days Skills Challenge** (Completed)
 - ✅ **Deloitte Australia Data Analytics Job Simulation** (Completed)
 - ✅ **College Innovation Award** - Best AI Project
-- ✅ **Peer-Reviewed Research Publication** - AI Mental Health
+- ✅ **Research Paper Publication** - AI Mental Health
 - ✅ **Capstone Project Recognition** - MindGuard System
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhiljadhav&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljadhav&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
@@ -276,7 +264,7 @@ I'm always excited to:
 [📧 Email](mailto:nikhiljadhav2782@gmail.com) • 
 [🔗 LinkedIn](https://www.linkedin.com/in/nikhil-jadhav-347520423) • 
 [💻 Portfolio](#) • 
-[📝 Blog](#)
+
 
 </div>
 
@@ -295,9 +283,8 @@ I'm always excited to:
 ## 📌 Quick Navigation
 
 - **[MindGuard Project](https://github.com/nikhiljadhav/mindguard)** - Capstone ML Project
-- **[Food Recommendation System](#)** - Content-based Recommender
+- **[Food Recommendation System](https://github.com/NikhilJadhav07/SmartBuy-Smart-Food-Recommendation-System)** - Content-based Recommender
 - **[Analytics Dashboards](#)** - Power BI & Tableau Projects
-- **[Resume](https://docs.google.com/document/d/YOUR_RESUME_LINK)** - Full CV
 
 ---
 
