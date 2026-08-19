@@ -38,7 +38,7 @@ I believe in **combining research rigor with practical implementation** to creat
 
 ```
 ✨ 88% ML Accuracy | 12,000+ Lines of Code | 71 Files
-🔬 Peer-Reviewed Research Paper | 6 Months Development
+🔬 Published Research Paper | 6 Months Development
 ```
 
 **What it does:**
