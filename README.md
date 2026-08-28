@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-nikhiljadhav2782%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nikhiljadhav2782@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Nashik%2C%20India-green?style=flat-square)](#)
 
-**AI Engineer | Data Analyst | Machine Learning Specialist | Data Scientist**  
+** Python Developer | AI Engineer | Data Analyst | Machine Learning Specialist | **  
 *Building intelligent systems that solve real-world problems*
 
 </div>
